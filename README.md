@@ -1,7 +1,7 @@
 ### Applitools Cypress Hackathon
 To view the Applitools Cypress SDK click [here](https://www.npmjs.com/package/@applitools/eyes-cypress)
 ## Pre-Requisites
-1.  Install node [here](https://nodejs.org/en/) or for a mac user: `brew update` and then `brew install node``
+1.  Install node [here](https://nodejs.org/en/) or for a mac user: `brew update` and then `brew install node`
 2.  Register to Applitools and [create an account](https://auth.applitools.com/users/register)
 3.  Ensure you have your Applitools API Key!
 
