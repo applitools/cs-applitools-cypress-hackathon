@@ -2,6 +2,7 @@ module.exports = {
     showLogs: false,
     concurrency: 10,
     apiKey: '',
+    // serverUrl: 'Replace_with_Your_Dedicated_Server_URL_',
     //
     browser: [
         // Add browsers with different viewports
